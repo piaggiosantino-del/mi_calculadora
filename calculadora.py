@@ -20,6 +20,7 @@ def dividir(a, b):
         return "Error: No se puede dividir por cero"
     return a / b
 
+
 def potencia(a, b):
     """Eleva a a la potencia b."""
     return a ** b
